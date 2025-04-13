@@ -1,4 +1,4 @@
-#💧 Water Conservation Website 🌱
+# Water Conservation Website 🌱
 
 A visually engaging and interactive website built to inspire action and spread awareness about responsible water usage 💦🌍
 
