@@ -1,13 +1,13 @@
-##💧 Water Conservation Website 🌱
+#💧 Water Conservation Website 🌱
 
 A visually engaging and interactive website built to inspire action and spread awareness about responsible water usage 💦🌍
 
 ---
 
-# 🌟 Project Highlights
+🌟 Project Highlights
 
 🚰 **Track Your Usage** – Input your daily water consumption and discover smarter, sustainable habits  
-📉 **Reduce Wastage** – Get personalized suggestions to help lower your water use  
+📉 **Reduce Wastage** – Get suggestions to help lower your water use  
 📢 **Report Water Waste** – Quickly report areas where water is being misused  
 🎉 **Host or Join Events** – Start or participate in water-saving campaigns near you  
 📚 **Learn & Grow** – Access informative content on why saving water is essential for our planet
